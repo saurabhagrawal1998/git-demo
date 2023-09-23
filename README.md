@@ -1,4 +1,4 @@
 # git-demo
 sample repo for learning git
 <br/>
-hello git
+Author - Saurabh Agrawal
